@@ -6,7 +6,7 @@ Daily Bible reading podcast from the Eat The Bible 120 reading plan.
 
 Once GitHub Pages is enabled, the podcast feed will be available at:
 
-`https://larsgriffin2.github.io/eat-the-bible-120/rss.xml`
+`https://larsgriffin2-stack.github.io/eat-the-bible-120/rss.xml`
 
 ## Local workflow
 
