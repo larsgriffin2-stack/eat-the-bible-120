@@ -21,7 +21,7 @@ AUTHOR = "Lars Griffin"
 DESCRIPTION = "Daily Bible reading podcast from the Eat The Bible 120 reading plan."
 CATEGORY = "Religion & Spirituality"
 SUBCATEGORY = "Christianity"
-DEFAULT_BASE_URL = "https://larsgriffin2.github.io/eat-the-bible-120"
+DEFAULT_BASE_URL = "https://larsgriffin2-stack.github.io/eat-the-bible-120"
 RSS_FILENAME = "rss.xml"
 
 
