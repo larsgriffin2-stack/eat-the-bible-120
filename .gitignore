@@ -1,0 +1,5 @@
+generation.log
+.generation.lock
+*.wav
+*-narration.txt
+__pycache__/
