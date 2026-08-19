@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Daily Bible reading podcast from the Eat The Bible 120 reading plan.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 22:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:23:56 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -20,6 +20,21 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <item>
+      <title>Eat The Bible 120 — Day 006</title>
+      <itunes:title>Eat The Bible 120 — Day 006</itunes:title>
+      <description>Daily reading Day 006.</description>
+      <itunes:summary>Daily reading Day 006.</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 06:05:19 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-006.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-006.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-006.mp3" length="12898460" type="audio/mpeg" />
+      <itunes:duration>28:15</itunes:duration>
+    </item>
     <item>
       <title>Eat The Bible 120 — Day 005</title>
       <itunes:title>Eat The Bible 120 — Day 005</itunes:title>

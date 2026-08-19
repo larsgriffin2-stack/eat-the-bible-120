@@ -1,5 +1,6 @@
 generation.log
 .generation.lock
+.daily-publish.lock
 *.wav
 *-narration.txt
 __pycache__/
