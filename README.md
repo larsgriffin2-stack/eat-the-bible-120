@@ -1,6 +1,8 @@
 # Eat The Bible 120
 
-Daily Bible reading podcast from the Eat The Bible 120 reading plan.
+Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year.
+
+This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.
 
 ## Feed
 
