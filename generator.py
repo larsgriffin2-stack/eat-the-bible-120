@@ -28,6 +28,7 @@ DESCRIPTION = ("Eat The Bible 120 is a daily Bible reading podcast following the
 CATEGORY = "Religion & Spirituality"
 SUBCATEGORY = "Christianity"
 DEFAULT_BASE_URL = "https://larsgriffin2-stack.github.io/eat-the-bible-120"
+ARTWORK_FILENAME = "cover.jpg"
 RSS_FILENAME = "rss.xml"
 
 
@@ -100,7 +101,12 @@ def generate(root: Path, base_url: str) -> Path:
     text(channel, "itunes:explicit", "false")
     category = ET.SubElement(channel, "itunes:category", {"text": CATEGORY})
     ET.SubElement(category, "itunes:category", {"text": SUBCATEGORY})
-    # Artwork is intentionally omitted until a cover image is supplied.
+    artwork_url = f"{base_url}/{ARTWORK_FILENAME}"
+    rss_image = ET.SubElement(channel, "image")
+    text(rss_image, "url", artwork_url)
+    text(rss_image, "title", TITLE)
+    text(rss_image, "link", base_url)
+    ET.SubElement(channel, "itunes:image", {"href": artwork_url})
 
     for path in reversed(files):
         episode = ET.SubElement(channel, "item")

@@ -11,7 +11,7 @@ fi
 
 python3 generator.py
 
-git add audio rss.xml generator.py README.md publish.sh daily-publish.sh .gitignore .nojekyll
+git add audio cover.jpg rss.xml generator.py README.md publish.sh daily-publish.sh .gitignore .nojekyll
 if git diff --cached --quiet; then
   echo "No podcast changes to commit."
   exit 0

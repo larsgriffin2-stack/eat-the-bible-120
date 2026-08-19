@@ -10,6 +10,8 @@ Once GitHub Pages is enabled, the podcast feed will be available at:
 
 `https://larsgriffin2-stack.github.io/eat-the-bible-120/rss.xml`
 
+This repository also publishes the podcast artwork at `cover.jpg`; the RSS feed references it through both the standard RSS `<image>` element and Apple Podcasts' `itunes:image` element.
+
 ## Local workflow
 
 Audio episodes belong in `audio/` as MP3 files. Regenerate the feed with:

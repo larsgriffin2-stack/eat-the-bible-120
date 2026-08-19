@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year. This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 17:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:06:00 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -20,6 +20,12 @@
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity" />
     </itunes:category>
+    <image>
+      <url>https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg</url>
+      <title>Eat The Bible 120</title>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120</link>
+    </image>
+    <itunes:image href="https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg" />
     <item>
       <title>Eat The Bible 120 — Day 006</title>
       <itunes:title>Eat The Bible 120 — Day 006</itunes:title>
