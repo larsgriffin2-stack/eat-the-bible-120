@@ -64,7 +64,8 @@ def log(message: str) -> None:
     ROOT.mkdir(parents=True, exist_ok=True)
     with LOG_PATH.open('a', encoding='utf-8') as f:
         f.write(line)
-    print(line, end='', flush=True)
+    # The detached launcher redirects stdout to this same file. Writing here
+    # and also printing would duplicate every line in generation.log.
 
 
 def js_round(value: float) -> int:
