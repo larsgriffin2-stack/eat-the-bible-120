@@ -1,10 +1,10 @@
 {
-  "current_day": 8,
-  "next_day": 9,
-  "last_completed_date": "2026-08-20",
+  "current_day": 10,
+  "next_day": 11,
+  "last_completed_date": "2026-08-21",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2097.504,
-  "last_passages": "Job chapters 36 through 41, Mark chapter 2, John chapter 5, Psalms chapters 15 through 16, and Proverbs chapter 8"
+  "last_duration_seconds": 2568.768,
+  "last_passages": "Genesis chapters 17 through 22, Matthew chapters 5 through 6, Psalms chapters 19 through 20, and Proverbs chapter 10"
 }
