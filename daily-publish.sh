@@ -1,68 +1,25 @@
 #!/bin/sh
-# Generate the next Eat The Bible 120 episode, move it into audio/,
-# regenerate the RSS feed, and publish the update to GitHub.
+# Launch the long-running daily generation/publish worker and return quickly
+# so Hermes cron does not time out while LocalAI renders the episode.
 set -eu
 
 ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
-cd "$ROOT"
-PYTHON=${PYTHON:-/usr/bin/python3}
+LOCK="$ROOT/.daily-publish-launch.lock"
+WORKER="$ROOT/daily-publish-worker.sh"
 
-# Prevent overlapping scheduled runs.
-exec 9>"$ROOT/.daily-publish.lock"
+exec 9>"$LOCK"
 flock -n 9 || {
-  printf '%s\n' 'A daily publish run is already in progress; exiting.'
+  printf '%s\n' 'A daily publish worker is already being launched; exiting.'
   exit 0
 }
 
-SYNCED=0
-
-sync_audio() {
-  for source in "$ROOT"/day-*.mp3; do
-    [ -e "$source" ] || continue
-    filename=$(basename "$source")
-    destination="$ROOT/audio/$filename"
-    if [ -e "$destination" ]; then
-      # A retry may find an artifact already moved before a later publish step
-      # failed. Treat identical bytes as synchronized; never overwrite a
-      # published episode with different bytes.
-      if cmp -s "$source" "$destination"; then
-        rm -f "$source"
-        SYNCED=$((SYNCED + 1))
-        printf 'Already synchronized %s; removed duplicate staging copy.\n' "$filename"
-        continue
-      fi
-      printf 'Refusing to overwrite existing %s with different bytes\n' "$destination" >&2
-      exit 1
-    fi
-    mv "$source" "$destination"
-    SYNCED=$((SYNCED + 1))
-    printf 'Moved %s into audio/\n' "$filename"
-  done
-}
-
-# Recover any episode produced by an earlier run before publishing.
-sync_audio
-
-# A staged episode is already complete; publish it without generating another
-# sequence item in this invocation.
-if [ "$SYNCED" -gt 0 ]; then
-  ./publish.sh
+# If a worker already owns the processing lock, do not launch another one.
+exec 8>"$ROOT/.daily-publish.lock"
+if ! flock -n 8; then
+  printf '%s\n' 'A daily publish worker is already running; exiting.'
   exit 0
 fi
+flock -u 8
 
-next_day=$($PYTHON -c 'import json; print(json.load(open("sequence-state.json"))["next_day"])')
-if [ "$next_day" -le 120 ]; then
-  "$PYTHON" generate_next_episode.py worker
-fi
-
-# The generator writes to the repository root; GitHub Pages serves audio/.
-sync_audio
-
-# If this run only recovered a completed staged episode, publish it and stop.
-# Do not consume the next sequence item in the same recovery run.
-if [ "$SYNCED" -gt 0 ]; then
-  ./publish.sh
-  exit 0
-fi
-
-./publish.sh
+nohup setsid "$WORKER" >>"$ROOT/generation.log" 2>&1 </dev/null &
+printf 'Started detached daily publish worker (pid %s).\n' "$!"

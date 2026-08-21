@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year. This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 14:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:42:50 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -26,6 +26,36 @@
       <link>https://larsgriffin2-stack.github.io/eat-the-bible-120</link>
     </image>
     <itunes:image href="https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg" />
+    <item>
+      <title>Eat The Bible 120 — Day 010</title>
+      <itunes:title>Eat The Bible 120 — Day 010</itunes:title>
+      <description>Daily reading Day 010.</description>
+      <itunes:summary>Daily reading Day 010.</itunes:summary>
+      <pubDate>Fri, 21 Aug 2026 13:42:50 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-010.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-010.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-010.mp3" length="20425964" type="audio/mpeg" />
+      <itunes:duration>42:49</itunes:duration>
+    </item>
+    <item>
+      <title>Eat The Bible 120 — Day 009</title>
+      <itunes:title>Eat The Bible 120 — Day 009</itunes:title>
+      <description>Daily reading Day 009.</description>
+      <itunes:summary>Daily reading Day 009.</itunes:summary>
+      <pubDate>Fri, 21 Aug 2026 06:06:38 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-009.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-009.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-009.mp3" length="21051668" type="audio/mpeg" />
+      <itunes:duration>44:26</itunes:duration>
+    </item>
     <item>
       <title>Eat The Bible 120 — Day 008</title>
       <itunes:title>Eat The Bible 120 — Day 008</itunes:title>
