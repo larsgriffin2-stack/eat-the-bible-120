@@ -1,10 +1,10 @@
 {
-  "current_day": 13,
-  "next_day": 14,
-  "last_completed_date": "2026-08-24",
+  "current_day": 14,
+  "next_day": 15,
+  "last_completed_date": "2026-08-25",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3112.824,
-  "last_passages": "Genesis chapters 36 through 41, Luke chapter 11, Matthew chapter 13, Psalms chapters 25 through 26, and Proverbs chapter 13"
+  "last_duration_seconds": 3011.376,
+  "last_passages": "Genesis chapters 42 through 47, Luke chapter 8, Mark chapter 4, Psalms chapters 27 through 28, and Proverbs chapter 14"
 }
