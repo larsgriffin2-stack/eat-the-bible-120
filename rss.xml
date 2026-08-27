@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year. This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:04:06 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -26,6 +26,21 @@
       <link>https://larsgriffin2-stack.github.io/eat-the-bible-120</link>
     </image>
     <itunes:image href="https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg" />
+    <item>
+      <title>Eat The Bible 120 — Day 016</title>
+      <itunes:title>Eat The Bible 120 — Day 016</itunes:title>
+      <description>Daily reading Day 016.</description>
+      <itunes:summary>Daily reading Day 016.</itunes:summary>
+      <pubDate>Thu, 27 Aug 2026 06:04:05 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-016.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-016.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-016.mp3" length="24824876" type="audio/mpeg" />
+      <itunes:duration>51:45</itunes:duration>
+    </item>
     <item>
       <title>Eat The Bible 120 — Day 015</title>
       <itunes:title>Eat The Bible 120 — Day 015</itunes:title>
