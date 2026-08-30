@@ -1,10 +1,10 @@
 {
-  "current_day": 18,
-  "next_day": 19,
-  "last_completed_date": "2026-08-29",
+  "current_day": 19,
+  "next_day": 20,
+  "last_completed_date": "2026-08-30",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2405.592,
-  "last_passages": "Exodus chapters 17 through 22, Mark chapter 7, Matthew chapter 16, Psalms chapters 35 through 36, and Proverbs chapter 18"
+  "last_duration_seconds": 2789.904,
+  "last_passages": "Exodus chapters 23 through 28, Mark chapter 8, Matthew chapter 17, Psalms chapters 37 through 38, and Proverbs chapter 19"
 }
