@@ -1,10 +1,10 @@
 {
-  "current_day": 21,
-  "next_day": 22,
-  "last_completed_date": "2026-09-01",
+  "current_day": 22,
+  "next_day": 23,
+  "last_completed_date": "2026-09-02",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3173.352,
-  "last_passages": "Exodus chapters 36 through 40, Leviticus chapter 1, John chapters 7 through 9, Psalms chapters 41 through 42, and Proverbs chapter 21"
+  "last_duration_seconds": 2611.584,
+  "last_passages": "Leviticus chapters 2 through 7, John chapter 10, Luke chapter 10, Psalms chapters 43 through 44, and Proverbs chapter 22"
 }

@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year. This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.</description>
-    <lastBuildDate>Tue, 01 Sep 2026 06:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:07:20 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -26,6 +26,21 @@
       <link>https://larsgriffin2-stack.github.io/eat-the-bible-120</link>
     </image>
     <itunes:image href="https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg" />
+    <item>
+      <title>Eat The Bible 120 — Day 022</title>
+      <itunes:title>Eat The Bible 120 — Day 022</itunes:title>
+      <description>Daily reading Day 022.</description>
+      <itunes:summary>Daily reading Day 022.</itunes:summary>
+      <pubDate>Wed, 02 Sep 2026 06:07:20 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-022.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-022.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-022.mp3" length="20883764" type="audio/mpeg" />
+      <itunes:duration>43:32</itunes:duration>
+    </item>
     <item>
       <title>Eat The Bible 120 — Day 021</title>
       <itunes:title>Eat The Bible 120 — Day 021</itunes:title>
