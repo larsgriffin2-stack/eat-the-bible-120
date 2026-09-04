@@ -1,10 +1,10 @@
 {
-  "current_day": 23,
-  "next_day": 24,
-  "last_completed_date": "2026-09-03",
+  "current_day": 24,
+  "next_day": 25,
+  "last_completed_date": "2026-09-04",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3047.88,
-  "last_passages": "Leviticus chapters 8 through 13, Luke chapters 12 through 13, Psalms chapters 45 through 46, and Proverbs chapter 23"
+  "last_duration_seconds": 3170.04,
+  "last_passages": "Leviticus chapters 14 through 20, Luke chapters 14 through 15, Psalms chapters 47 through 48, and Proverbs chapter 24"
 }
