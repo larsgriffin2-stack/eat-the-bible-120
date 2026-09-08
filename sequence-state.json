@@ -1,10 +1,10 @@
 {
-  "current_day": 27,
-  "next_day": 28,
-  "last_completed_date": "2026-09-07",
+  "current_day": 28,
+  "next_day": 29,
+  "last_completed_date": "2026-09-08",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3428.976,
-  "last_passages": "Numbers chapters 6 through 11, Matthew chapter 19, Mark chapter 10, Matthew chapter 20, Psalms chapters 53 through 54, and Proverbs chapter 27"
+  "last_duration_seconds": 2956.992,
+  "last_passages": "Numbers chapters 12 through 17, Matthew chapter 21, Luke chapter 19, Psalms chapters 55 through 56, and Proverbs chapter 28"
 }
