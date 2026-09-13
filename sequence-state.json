@@ -1,10 +1,10 @@
 {
-  "current_day": 32,
-  "next_day": 33,
-  "last_completed_date": "2026-09-12",
+  "current_day": 33,
+  "next_day": 34,
+  "last_completed_date": "2026-09-13",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2950.632,
-  "last_passages": "Deuteronomy chapters 1 through 6, Luke chapter 21, Mark chapter 13, Psalms chapter 62, and Proverbs chapter 1"
+  "last_duration_seconds": 3147.48,
+  "last_passages": "Deuteronomy chapters 7 through 12, Matthew chapters 24 through 26, Psalms chapter 63, and Proverbs chapter 2"
 }
