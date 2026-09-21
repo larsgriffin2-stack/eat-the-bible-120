@@ -6,6 +6,17 @@ set -eu
 ROOT=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 LOCK="$ROOT/.daily-publish-launch.lock"
 WORKER="$ROOT/daily-publish-worker.sh"
+CATCHUP_MARKER="$ROOT/.catchup-active"
+
+# The two-hour catch-up loop owns the schedule while it is active.
+if [ -f "$CATCHUP_MARKER" ]; then
+  catchup_pid=$(cat "$CATCHUP_MARKER" 2>/dev/null || true)
+  if [ -n "$catchup_pid" ] && kill -0 "$catchup_pid" 2>/dev/null; then
+    printf 'Two-hour catch-up publisher is active (pid %s); skipping daily launch.\n' "$catchup_pid"
+    exit 0
+  fi
+  rm -f "$CATCHUP_MARKER"
+fi
 
 exec 9>"$LOCK"
 flock -n 9 || {
