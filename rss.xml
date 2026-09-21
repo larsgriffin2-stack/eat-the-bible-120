@@ -6,7 +6,7 @@
     <language>en-us</language>
     <copyright>© 2026 Lars Griffin</copyright>
     <description>Eat The Bible 120 is a daily Bible reading podcast following the Eat The Bible 120 reading plan. Each episode presents selected readings from the Old Testament, New Testament, Psalms, and Proverbs, helping listeners engage with Scripture consistently throughout the year. This podcast uses the World English Bible (WEB), a public-domain modern English translation. Visit https://worldenglish.bible/ for more information and resources.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:21:20 GMT</lastBuildDate>
     <generator>Eat The Bible 120 local RSS generator</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <itunes:author>Lars Griffin</itunes:author>
@@ -26,6 +26,66 @@
       <link>https://larsgriffin2-stack.github.io/eat-the-bible-120</link>
     </image>
     <itunes:image href="https://larsgriffin2-stack.github.io/eat-the-bible-120/cover.jpg" />
+    <item>
+      <title>Eat The Bible 120 — Day 040</title>
+      <itunes:title>Eat The Bible 120 — Day 040</itunes:title>
+      <description>Daily reading Day 040.</description>
+      <itunes:summary>Daily reading Day 040.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 21:21:20 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-040.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-040.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>40</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-040.mp3" length="20125364" type="audio/mpeg" />
+      <itunes:duration>41:25</itunes:duration>
+    </item>
+    <item>
+      <title>Eat The Bible 120 — Day 039</title>
+      <itunes:title>Eat The Bible 120 — Day 039</itunes:title>
+      <description>Daily reading Day 039.</description>
+      <itunes:summary>Daily reading Day 039.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 21:16:17 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-039.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-039.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>39</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-039.mp3" length="22001732" type="audio/mpeg" />
+      <itunes:duration>46:11</itunes:duration>
+    </item>
+    <item>
+      <title>Eat The Bible 120 — Day 038</title>
+      <itunes:title>Eat The Bible 120 — Day 038</itunes:title>
+      <description>Daily reading Day 038.</description>
+      <itunes:summary>Daily reading Day 038.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 21:10:14 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-038.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-038.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>38</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-038.mp3" length="26920820" type="audio/mpeg" />
+      <itunes:duration>55:47</itunes:duration>
+    </item>
+    <item>
+      <title>Eat The Bible 120 — Day 037</title>
+      <itunes:title>Eat The Bible 120 — Day 037</itunes:title>
+      <description>Daily reading Day 037.</description>
+      <itunes:summary>Daily reading Day 037.</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 21:01:56 GMT</pubDate>
+      <guid>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-037.mp3</guid>
+      <link>https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-037.mp3</link>
+      <itunes:author>Lars Griffin</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://larsgriffin2-stack.github.io/eat-the-bible-120/audio/day-037.mp3" length="19758836" type="audio/mpeg" />
+      <itunes:duration>42:06</itunes:duration>
+    </item>
     <item>
       <title>Eat The Bible 120 — Day 035</title>
       <itunes:title>Eat The Bible 120 — Day 035</itunes:title>
