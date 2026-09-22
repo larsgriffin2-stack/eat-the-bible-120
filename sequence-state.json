@@ -1,10 +1,10 @@
 {
-  "current_day": 51,
-  "next_day": 52,
+  "current_day": 52,
+  "next_day": 53,
   "last_completed_date": "2026-09-22",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3045.36,
-  "last_passages": "1 Chronicles chapters 1 through 6, Acts chapters 15 through 16, Galatians chapter 1, Psalms chapter 81, and Proverbs chapter 20"
+  "last_duration_seconds": 2672.376,
+  "last_passages": "1 Chronicles chapters 7 through 10, 2 Samuel chapter 5, 1 Chronicles chapters 11 through 12, Galatians chapters 2 through 3, Psalms chapter 82, and Proverbs chapter 21"
 }
