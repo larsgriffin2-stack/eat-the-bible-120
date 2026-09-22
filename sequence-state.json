@@ -1,10 +1,10 @@
 {
-  "current_day": 47,
-  "next_day": 48,
+  "current_day": 48,
+  "next_day": 49,
   "last_completed_date": "2026-09-22",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 3383.928,
-  "last_passages": "1 Samuel chapters 11 through 17, Acts chapters 12 through 13, Psalms chapter 77, and Proverbs chapter 16"
+  "last_duration_seconds": 2785.392,
+  "last_passages": "1 Samuel chapters 18 through 23, Acts chapter 14, James chapter 1, Psalms chapter 78, and Proverbs chapter 17"
 }
