@@ -1,10 +1,10 @@
 {
-  "current_day": 44,
-  "next_day": 45,
+  "current_day": 45,
+  "next_day": 46,
   "last_completed_date": "2026-09-22",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2716.896,
-  "last_passages": "Judges chapters 18 through 21, Ruth chapters 1 through 2, Acts chapters 5 through 6, Psalms chapter 74, and Proverbs chapter 13"
+  "last_duration_seconds": 2924.352,
+  "last_passages": "Ruth chapters 3 through 4, 1 Samuel chapters 1 through 4, Acts chapters 7 through 9, Psalms chapter 75, and Proverbs chapter 14"
 }
