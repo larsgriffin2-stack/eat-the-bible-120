@@ -1,10 +1,10 @@
 {
-  "current_day": 56,
-  "next_day": 57,
+  "current_day": 57,
+  "next_day": 58,
   "last_completed_date": "2026-09-23",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2936.136,
-  "last_passages": "2 Samuel chapters 16 through 22, 1 Thessalonians chapters 3 through 4, Psalms chapter 86, and Proverbs chapter 25"
+  "last_duration_seconds": 2268.792,
+  "last_passages": "2 Samuel chapters 23 through 24, 1 Chronicles chapters 21 through 24, 1 Thessalonians chapter 5, 2 Thessalonians chapters 1 through 2, Psalms chapter 87, and Proverbs chapter 26"
 }
