@@ -245,8 +245,14 @@ def worker() -> int:
         mp3 = ROOT / f'day-{day:03d}.mp3'
         narration_path = ROOT / f'day-{day:03d}-narration.txt'
         wav = ROOT / f'.day-{day:03d}.wav'
-        if mp3.exists() or narration_path.exists():
-            raise RuntimeError(f'Refusing to overwrite existing day {day}: {mp3.name} or {narration_path.name} exists')
+        if mp3.exists():
+            raise RuntimeError(f'Refusing to overwrite existing day {day}: {mp3.name} exists')
+        # A narration file without its MP3 is an incomplete staged artifact
+        # from an interrupted run. It is safe to replace because the official
+        # output does not exist yet; never remove a completed MP3.
+        if narration_path.exists():
+            log(f'Removing incomplete staged narration for Day {day} before retry')
+            narration_path.unlink()
 
         chapters = rendered_days()[day - 1]
         if not chapters:
