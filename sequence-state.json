@@ -1,10 +1,10 @@
 {
-  "current_day": 62,
-  "next_day": 63,
+  "current_day": 63,
+  "next_day": 64,
   "last_completed_date": "2026-09-26",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2321.088,
-  "last_passages": "2 Chronicles chapters 5 through 7, 1 Kings chapter 9, 2 Chronicles chapter 8, Ecclesiastes chapter 1, 1 Corinthians chapters 6 through 7, Psalms chapter 92, and Proverbs chapter 31"
+  "last_duration_seconds": 1937.208,
+  "last_passages": "Ecclesiastes chapters 2 through 7, 1 Corinthians chapters 8 through 10, Psalms chapter 93, and Proverbs chapter 1"
 }
