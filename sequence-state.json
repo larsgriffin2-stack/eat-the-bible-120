@@ -1,10 +1,10 @@
 {
-  "current_day": 69,
-  "next_day": 70,
+  "current_day": 70,
+  "next_day": 71,
   "last_completed_date": "2026-09-27",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1932.888,
-  "last_passages": "2 Chronicles chapters 22 through 23, Obadiah chapter 1, 2 Kings chapters 1 through 3, 2 Corinthians chapters 5 through 7, Psalms chapter 99, and Proverbs chapter 7"
+  "last_duration_seconds": 3081.984,
+  "last_passages": "2 Kings chapters 4 through 10, 2 Corinthians chapters 8 through 9, Psalms chapter 100, and Proverbs chapter 8"
 }
