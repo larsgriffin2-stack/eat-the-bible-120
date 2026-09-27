@@ -1,10 +1,10 @@
 {
-  "current_day": 74,
-  "next_day": 75,
+  "current_day": 75,
+  "next_day": 76,
   "last_completed_date": "2026-09-27",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1962.96,
-  "last_passages": "Isaiah chapters 7 through 8, Amos chapters 1 through 4, Romans chapters 3 through 4, Psalms chapter 104, and Proverbs chapter 12"
+  "last_duration_seconds": 2231.496,
+  "last_passages": "Amos chapters 5 through 9, 2 Chronicles chapter 27, Isaiah chapter 9, Romans chapters 5 through 7, Psalms chapter 105, and Proverbs chapter 13"
 }
