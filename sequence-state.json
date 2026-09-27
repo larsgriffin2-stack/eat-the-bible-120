@@ -1,10 +1,10 @@
 {
-  "current_day": 72,
-  "next_day": 73,
+  "current_day": 73,
+  "next_day": 74,
   "last_completed_date": "2026-09-27",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1828.824,
-  "last_passages": "Jonah chapters 1 through 4, 2 Kings chapter 15, 2 Chronicles chapter 26, 2 Corinthians chapters 12 through 13, Psalms chapter 102, and Proverbs chapter 10"
+  "last_duration_seconds": 2161.248,
+  "last_passages": "Isaiah chapters 1 through 6, Romans chapters 1 through 2, Psalms chapter 103, and Proverbs chapter 11"
 }
