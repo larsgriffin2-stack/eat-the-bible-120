@@ -1,10 +1,10 @@
 {
-  "current_day": 78,
-  "next_day": 79,
+  "current_day": 79,
+  "next_day": 80,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1931.784,
-  "last_passages": "2 Kings chapter 17, Isaiah chapters 13 through 17, Romans chapters 12 through 13, Psalms chapter 108, and Proverbs chapter 16"
+  "last_duration_seconds": 2061.744,
+  "last_passages": "Isaiah chapters 18 through 24, Romans chapters 14 through 15, Psalms chapter 109, and Proverbs chapter 17"
 }
