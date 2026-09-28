@@ -1,10 +1,10 @@
 {
-  "current_day": 86,
-  "next_day": 87,
+  "current_day": 87,
+  "next_day": 88,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2134.56,
-  "last_passages": "Isaiah chapters 44 through 48, 2 Kings chapter 19, Colossians chapter 4, Philemon chapter 1, Psalms chapter 116, and Proverbs chapter 24"
+  "last_duration_seconds": 2002.632,
+  "last_passages": "Isaiah chapters 49 through 54, Ephesians chapters 1 through 3, Psalms chapter 117, and Proverbs chapter 25"
 }
