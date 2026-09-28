@@ -1,10 +1,10 @@
 {
-  "current_day": 87,
-  "next_day": 88,
+  "current_day": 88,
+  "next_day": 89,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2002.632,
-  "last_passages": "Isaiah chapters 49 through 54, Ephesians chapters 1 through 3, Psalms chapter 117, and Proverbs chapter 25"
+  "last_duration_seconds": 2205.816,
+  "last_passages": "Isaiah chapters 55 through 61, Ephesians chapters 4 through 5, Psalms chapter 118, and Proverbs chapter 26"
 }
