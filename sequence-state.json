@@ -1,10 +1,10 @@
 {
-  "current_day": 82,
-  "next_day": 83,
+  "current_day": 83,
+  "next_day": 84,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1664.304,
-  "last_passages": "Hosea chapters 6 through 11, Acts chapters 24 through 25, Psalms chapter 112, and Proverbs chapter 20"
+  "last_duration_seconds": 2199.216,
+  "last_passages": "Hosea chapters 12 through 14, Isaiah chapters 28 through 30, Acts chapters 26 through 27, Psalms chapter 113, and Proverbs chapter 21"
 }
