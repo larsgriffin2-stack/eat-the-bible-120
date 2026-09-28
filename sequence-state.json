@@ -1,10 +1,10 @@
 {
-  "current_day": 81,
-  "next_day": 82,
+  "current_day": 82,
+  "next_day": 83,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2286.048,
-  "last_passages": "2 Chronicles chapter 31, Hosea chapters 1 through 5, Acts chapters 21 through 23, Psalms chapter 111, and Proverbs chapter 19"
+  "last_duration_seconds": 1664.304,
+  "last_passages": "Hosea chapters 6 through 11, Acts chapters 24 through 25, Psalms chapter 112, and Proverbs chapter 20"
 }
