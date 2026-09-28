@@ -1,10 +1,10 @@
 {
-  "current_day": 80,
-  "next_day": 81,
+  "current_day": 81,
+  "next_day": 82,
   "last_completed_date": "2026-09-28",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2330.16,
-  "last_passages": "Isaiah chapters 25 through 27, 2 Kings chapter 18, 2 Chronicles chapters 29 through 30, Romans chapter 16, Acts chapter 20, Psalms chapter 110, and Proverbs chapter 18"
+  "last_duration_seconds": 2286.048,
+  "last_passages": "2 Chronicles chapter 31, Hosea chapters 1 through 5, Acts chapters 21 through 23, Psalms chapter 111, and Proverbs chapter 19"
 }
