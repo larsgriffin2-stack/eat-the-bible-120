@@ -1,10 +1,10 @@
 {
-  "current_day": 92,
-  "next_day": 93,
+  "current_day": 93,
+  "next_day": 94,
   "last_completed_date": "2026-09-29",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2223.048,
-  "last_passages": "Zephaniah chapter 3, Jeremiah chapters 1 through 5, 1 Timothy chapters 2 through 3, Psalms chapter 122, and Proverbs chapter 30"
+  "last_duration_seconds": 2683.296,
+  "last_passages": "Jeremiah chapters 6 through 12, 1 Timothy chapters 4 through 6, Psalms chapter 123, and Proverbs chapter 31"
 }
