@@ -1,10 +1,10 @@
 {
-  "current_day": 94,
-  "next_day": 95,
+  "current_day": 95,
+  "next_day": 96,
   "last_completed_date": "2026-09-29",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2103.024,
-  "last_passages": "Jeremiah chapters 13 through 18, Titus chapters 1 through 2, Psalms chapter 124, and Proverbs chapter 1"
+  "last_duration_seconds": 1970.448,
+  "last_passages": "Jeremiah chapters 19 through 24, Titus chapter 3, 1 Peter chapter 1, Psalms chapter 125, and Proverbs chapter 2"
 }
