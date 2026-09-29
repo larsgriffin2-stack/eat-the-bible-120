@@ -1,10 +1,10 @@
 {
-  "current_day": 96,
-  "next_day": 97,
+  "current_day": 97,
+  "next_day": 98,
   "last_completed_date": "2026-09-29",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2390.928,
-  "last_passages": "Jeremiah chapters 25 through 30, 1 Peter chapters 2 through 3, Psalms chapter 126, and Proverbs chapter 3"
+  "last_duration_seconds": 2634.84,
+  "last_passages": "Jeremiah chapters 31 through 36, 1 Peter chapters 4 through 5, Psalms chapter 127, and Proverbs chapter 4"
 }
