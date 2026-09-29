@@ -1,10 +1,10 @@
 {
-  "current_day": 89,
-  "next_day": 90,
+  "current_day": 90,
+  "next_day": 91,
   "last_completed_date": "2026-09-29",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2922.264,
-  "last_passages": "Isaiah chapters 62 through 66, 2 Kings chapter 20, Ephesians chapter 6, Philippians chapter 1, Psalms chapter 119, and Proverbs chapter 27"
+  "last_duration_seconds": 2019.6,
+  "last_passages": "2 Kings chapter 21, 2 Chronicles chapters 32 through 33, Nahum chapters 1 through 3, Philippians chapters 2 through 3, Psalms chapter 120, and Proverbs chapter 28"
 }
