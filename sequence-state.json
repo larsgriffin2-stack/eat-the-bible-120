@@ -1,10 +1,10 @@
 {
-  "current_day": 109,
-  "next_day": 110,
+  "current_day": 110,
+  "next_day": 111,
   "last_completed_date": "2026-09-30",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2577.312,
-  "last_passages": "Ezekiel chapters 43 through 48, 1 John chapters 4 through 5, Psalms chapter 139, and Proverbs chapter 16"
+  "last_duration_seconds": 2241.0,
+  "last_passages": "Joel chapters 1 through 3, Daniel chapters 1 through 3, 2 John chapter 1, 3 John chapter 1, Psalms chapter 140, and Proverbs chapter 17"
 }
