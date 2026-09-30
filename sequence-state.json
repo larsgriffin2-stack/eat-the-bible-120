@@ -1,10 +1,10 @@
 {
-  "current_day": 104,
-  "next_day": 105,
+  "current_day": 105,
+  "next_day": 106,
   "last_completed_date": "2026-09-30",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2329.536,
-  "last_passages": "Ezekiel chapters 12 through 17, 2 Timothy chapters 1 through 2, Psalms chapter 134, and Proverbs chapter 11"
+  "last_duration_seconds": 2929.416,
+  "last_passages": "Ezekiel chapters 18 through 23, 2 Timothy chapters 3 through 4, 2 Peter chapter 1, Psalms chapter 135, and Proverbs chapter 12"
 }
