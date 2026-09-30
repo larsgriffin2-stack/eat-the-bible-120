@@ -1,10 +1,10 @@
 {
-  "current_day": 107,
-  "next_day": 108,
+  "current_day": 108,
+  "next_day": 109,
   "last_completed_date": "2026-09-30",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2488.224,
-  "last_passages": "Ezekiel chapters 30 through 36, Jude chapter 1, 1 John chapter 1, Psalms chapter 137, and Proverbs chapter 14"
+  "last_duration_seconds": 2555.136,
+  "last_passages": "Ezekiel chapters 37 through 42, 1 John chapters 2 through 3, Psalms chapter 138, and Proverbs chapter 15"
 }
