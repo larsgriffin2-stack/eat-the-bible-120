@@ -1,10 +1,10 @@
 {
-  "current_day": 116,
-  "next_day": 117,
+  "current_day": 117,
+  "next_day": 118,
   "last_completed_date": "2026-10-01",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1996.344,
-  "last_passages": "Esther chapters 1 through 7, Revelation chapters 12 through 13, Psalms chapter 146, and Proverbs chapter 23"
+  "last_duration_seconds": 2336.4,
+  "last_passages": "Esther chapters 8 through 10, Ezra chapters 7 through 9, Revelation chapters 14 through 16, Psalms chapter 147, and Proverbs chapter 24"
 }
