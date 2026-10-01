@@ -1,10 +1,10 @@
 {
-  "current_day": 119,
-  "next_day": 120,
+  "current_day": 120,
+  "next_day": 121,
   "last_completed_date": "2026-10-01",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2553.192,
-  "last_passages": "Nehemiah chapters 6 through 11, Revelation chapters 19 through 20, Psalms chapter 149, and Proverbs chapter 26"
+  "last_duration_seconds": 2015.376,
+  "last_passages": "Nehemiah chapters 12 through 13, Malachi chapters 1 through 4, Revelation chapters 21 through 22, Psalms chapter 150, and Proverbs chapter 27"
 }
