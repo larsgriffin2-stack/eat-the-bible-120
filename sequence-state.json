@@ -1,10 +1,10 @@
 {
-  "current_day": 114,
-  "next_day": 115,
+  "current_day": 115,
+  "next_day": 116,
   "last_completed_date": "2026-10-01",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 1487.64,
-  "last_passages": "Zechariah chapters 3 through 8, Revelation chapters 8 through 9, Psalms chapter 144, and Proverbs chapter 21"
+  "last_duration_seconds": 1677.912,
+  "last_passages": "Zechariah chapters 9 through 14, Revelation chapters 10 through 11, Psalms chapter 145, and Proverbs chapter 22"
 }
