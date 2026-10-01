@@ -1,10 +1,10 @@
 {
-  "current_day": 112,
-  "next_day": 113,
-  "last_completed_date": "2026-09-30",
+  "current_day": 113,
+  "next_day": 114,
+  "last_completed_date": "2026-10-01",
   "total_days": 120,
   "file_naming": "day-NNN.mp3",
   "schedule_note": "One episode is generated and published per daily run; staged completed episodes are recovered before generating the next day.",
-  "last_duration_seconds": 2199.168,
-  "last_passages": "Daniel chapters 11 through 12, Ezra chapters 1 through 4, Revelation chapters 4 through 5, Psalms chapter 142, and Proverbs chapter 19"
+  "last_duration_seconds": 1836.456,
+  "last_passages": "Ezra chapters 5 through 6, Haggai chapters 1 through 2, Zechariah chapters 1 through 2, Revelation chapters 6 through 7, Psalms chapter 143, and Proverbs chapter 20"
 }
